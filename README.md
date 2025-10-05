@@ -1,11 +1,18 @@
 # Pandas
 import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import glob
+
 import re
+
 import math
+
 import warnings
+
 warnings.filterwarnings("ignore")
 
 Series
